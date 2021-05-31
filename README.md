@@ -1,3 +1,5 @@
+This is a golang version of the Gilded Rose practice problem, found [here](http://iamnotmyself.com/2011/02/14/refactor-this-the-gilded-rose-kata/).
+
 Gilded Rose Requirements Specification
 ======================================
 
